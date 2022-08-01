@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-**Experiência de trabalho** \
+### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://f.hubspotusercontent30.net/hubfs/8649189/site/global/Atlas%20Logo%20Verde.png"/>](https://www.atlasgov.com)
