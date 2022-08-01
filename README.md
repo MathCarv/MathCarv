@@ -37,7 +37,7 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://testonoticias.com.br/wp-content/uploads/arquivos/2019/07/15644177945550-696x365.png"/>](https://www.atlasgov.com)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://f.hubspotusercontent30.net/hubfs/8649189/site/global/Atlas%20Logo%20Verde.png"/>](https://www.atlasgov.com)
 
 **DevSecOps Intern** \
 [**Atlas Governance**](https://www.atlasgov.com) • Full-time \
