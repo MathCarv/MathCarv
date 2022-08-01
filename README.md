@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Kali Linux, Ferramentas de Pentest</strong>
+  💼 Ferramentas: <strong>Kali Linux, Ferramentas de Pentest</strong>
 </p>
 
 
