@@ -19,7 +19,7 @@
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 **DevSecOps Intern** \
-[**Atlas Governance**](https://www.atlasgov.com) • Full-time \
+[• Full-time \
 Linguagens & Tecnologias: `Python`, `Go`, `JavaScript`, `Html`, `PHP`, `Java`\
 Projetos em destaque: [Atlas Governance](https://www.atlasgov.com)
 <br/>
