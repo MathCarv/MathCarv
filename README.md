@@ -21,7 +21,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **DevSecOps Intern** \
 [• Full-time \
 Linguagens & Tecnologias: `Python`, `Go`, `JavaScript`, `Html`, `PHP`, `Java`\
-Projetos em destaque: [Atlas Governance](https://www.atlasgov.com)
 <br/>
 
 
