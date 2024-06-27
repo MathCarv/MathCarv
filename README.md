@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Me chamo Matheus, sou entusiasta da segurança da informação, cursando o penúltimo ano da Engenharia da Computação.<br>
+  Me chamo Matheus, sou entusiasta da segurança da informação, formado em Engenharia da Computação.<br>
   
   #Don'tStopHacking
 </p>
@@ -18,7 +18,7 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-**DevSecOps Intern** \
+**Cyber Security Engineer** \
 [• Full-time \
 Linguagens & Tecnologias: `Python`, `Go`, `JavaScript`, `Html`, `PHP`, `Java`\
 <br/>
