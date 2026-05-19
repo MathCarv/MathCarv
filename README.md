@@ -1,27 +1,27 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer illustration">
 
-<p align="left"> 
-  Me chamo Matheus, sou entusiasta da segurança da informação, formado em Engenharia da Computação.<br>
-  
-  #Don'tStopHacking
+<p align="left">
+  My name is Matheus, and I am an Information Security enthusiast with a degree in Computer Engineering.<br>
+  My main focus is Web3 Bug Bounty, especially smart contract and blockchain security, while I also actively work on Web2 security research.<br><br>
+  I have successfully earned critical bounties on platforms such as <strong>Immunefi</strong> and <strong>HackenProof</strong>, always focusing on finding impactful vulnerabilities and helping improve the security of real-world systems.<br><br>
+  #DontStopHacking
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, Go, Java</strong>
+  🛡️ Focus: <strong>Web3 Bug Bounty, Smart Contract Security, Web2 Security Research</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Kali Linux, Ferramentas de Pentest</strong>
+  💼 Tools: <strong>Kali Linux, Pentesting Tools, Security Research Methodologies</strong>
 </p>
 
-
-### Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+### Work Experience
+In the overview below, you will find my most recent professional experience:
 
 **Cyber Security Engineer** \
-[• Full-time \
-Linguagens & Tecnologias: `Python`, `Go`, `JavaScript`, `Html`, `PHP`, `Java`\
+[• Full-time] \
+Security Research, Vulnerability Assessment, Web Application Security, Smart Contract Security, Pentesting
+
 <br/>
 
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/mcarvalh/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Please find me on [LinkedIn](https://www.linkedin.com/in/mcarvalh/) for a more detailed description of my work experience, education, and certifications.
